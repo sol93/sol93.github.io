@@ -1,7 +1,7 @@
-site: Made Jekyll Theme
+site: Sam Ludescher's design portfolio
 
-url: 
-baseurl: 
+url: https://auxdesign.space
+baseurl: /sol93.github.io
 
 collections:
   pages:

@@ -1,8 +1,8 @@
 ---
-title: Mobile app
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
+title: The GLOBE
+subtitle: My Springboard capstone project: from the discovery phase all the way to a red-routed mobile prototype.
 date: 2019-07-24 00:00:00
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+description: The GLOBE provides mobile users with the important 'who, what, when and where' of news topics and events, but without the speculative 'why.' The user should be granted the liberty to come to their own opinion on topics and events.
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:
@@ -11,9 +11,7 @@ gallery_images:
   - demo.jpg
 ---
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+The GLOBE provides mobile users with the important 'who, what, when and where' of news topics and events, but without the speculative 'why.' The user should be granted the liberty to come to their own opinion on topics and events.
 
 ![](/images/demo.jpg)
 
