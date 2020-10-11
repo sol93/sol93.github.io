@@ -1,7 +1,7 @@
 site: Sam Ludescher's design portfolio
 
-url: https://auxdesign.space
-baseurl: /sol93.github.io
+url: https://sol93.github.io
+baseurl:
 
 collections:
   pages:
