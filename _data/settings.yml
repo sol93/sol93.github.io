@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: aUXdesign__
+  site_title: aUXdesign_
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,9 +9,9 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Projects'
-      url: 'auxdesign.space/projects/'
+      url: 'https://sol93.github.io/projects/'
     - title: 'Blog'
-      url: 'auxdesign.space/blog/'
+      url: 'https://sol93.github.io/blog/'
 
 footer_settings:
   logo_image: 
